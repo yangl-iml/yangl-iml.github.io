@@ -1,9 +1,15 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"RecSys":
+  color: "#80b1d3"
+  url: https://dl.acm.org/conference/recsys/proceedings
 
-"PhysRev":
-  url: https://journals.aps.org/
+"IUI":
+  color: "#fb8072"
+  url: https://dl.acm.org/conference/iui/proceedings
 
-"Vision":
-  color: "#009f36"
+"SIGIR":
+  color: "#bebada"
+  url: https://dl.acm.org/conference/ir/proceedings
+
+"IPM": 
+  color: "#8dd3c7"
+  url: https://www.sciencedirect.com/journal/information-processing-and-management
